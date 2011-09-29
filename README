@@ -1,0 +1,20 @@
+=== QuBic_Newest_jQuery ===
+Contributors: marc
+Tags: jQuery
+Requires at least: 3.1
+Tested up to: 3.2.1
+Stable tag: 0.1
+License: GPLv2 or later
+
+QuBic_Newest_jQuery performs a substitution of the jQuery version in Wordpress by the newest one in Google Apis.
+
+=== Description ===
+QuBic_Newest_jQuery performs a substitution of the jQuery version in Wordpress by the newest one in Google Apis.
+
+== Installation ==
+
+Upload the QuBic_Idioma plugin and you're done!
+
+== Changelog ==
+=0.1=
+Plugin creation
